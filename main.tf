@@ -15,7 +15,7 @@ terraform {
     organization = "IPspecialist"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "GitHubActions"
     }
   }
 }

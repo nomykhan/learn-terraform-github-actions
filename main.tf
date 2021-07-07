@@ -12,7 +12,7 @@ terraform {
   required_version = "~> 0.14"
 
   backend "remote" {
-    organization = "IPspecialist"
+    organization = "IPSpecialist"
 
     workspaces {
       name = "GitHubActions"
